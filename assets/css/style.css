@@ -1,0 +1,10 @@
+body {
+    background-image: url("../images/graffitti.jpg");
+}
+
+h1 {
+    font-family: 'Shrikhand', cursive;
+    text-align: center;
+    color: white;
+}
+
